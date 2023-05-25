@@ -1,10 +1,10 @@
-# Next.js Starter Echo
+# Next.js prototype builder
 
-Awesome Next.js starter template made by Eason Chang
+Awesome Next.js prototype builder
 
-[Demo site](https://nextjs-starter-echo.vercel.app/)
+[Demo](https://nextjs-starter-echo.vercel.app/)
 
-[Storybook demo site](https://main--61787e383ce216004a69e924.chromatic.com/)
+[Storybook demo](https://main--61787e383ce216004a69e924.chromatic.com/)
 
 ## features
 
